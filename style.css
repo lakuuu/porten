@@ -93,7 +93,7 @@ header{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url(/img/Rectangleeight.png);
+    background-image: url(./img/Rectangleeight.png);
     justify-content: end;
     padding-bottom: 15vh;
 }
@@ -159,7 +159,7 @@ header{
 /* foote start */
 footer{
     height: 40vh;
-    background-image: url(/img/Rectangleonefive.png);
+    background-image: url(/.img/Rectangleonefive.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
